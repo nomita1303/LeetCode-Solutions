@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
