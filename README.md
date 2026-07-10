@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Math
 |  |
 | ------- |
@@ -43,8 +44,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
