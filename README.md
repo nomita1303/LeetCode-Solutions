@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0134-gas-station](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0274-h-index](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0274-h-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
