@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0392-is-subsequence](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
