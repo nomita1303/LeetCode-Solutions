@@ -94,4 +94,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
