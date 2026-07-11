@@ -45,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0504-base-7](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0504-base-7) |
 ## Math
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0441-arranging-coins](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0504-base-7) |
 ## Simulation
 |  |
 | ------- |
