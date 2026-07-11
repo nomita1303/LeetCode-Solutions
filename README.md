@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0134-gas-station](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0219-contains-duplicate-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0274-h-index) |
 ## Binary Search
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0219-contains-duplicate-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
