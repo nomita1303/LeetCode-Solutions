@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0078-subsets](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Sliding Window
 |  |
