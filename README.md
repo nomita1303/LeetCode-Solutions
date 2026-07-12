@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [1331-rank-transform-of-an-array](https://github.com/nomita1303/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0219-contains-duplicate-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/nomita1303/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [1331-rank-transform-of-an-array](https://github.com/nomita1303/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Counting Sort
 |  |
 | ------- |
