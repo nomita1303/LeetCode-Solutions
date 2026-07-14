@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0504-base-7](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0504-base-7) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nomita1303/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/nomita1303/LeetCode-Solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/nomita1303/LeetCode-Solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 ## Depth-First Search
 |  |
 | ------- |
