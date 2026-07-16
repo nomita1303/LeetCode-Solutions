@@ -15,19 +15,22 @@
  */
 class Solution {
 
+    TreeNode prev = null;
+
     public boolean isValidBST(TreeNode root) {
-        return validate(root, Long.MIN_VALUE, Long.MAX_VALUE);
-    }
 
-    private boolean validate(TreeNode node, long min, long max) {
-
-        if (node == null)
+        if (root == null)
             return true;
 
-        if (node.val <= min || node.val >= max)
+
+        if (!isValidBST(root.left))
             return false;
 
-        return validate(node.left, min, node.val) &&
-               validate(node.right, node.val, max);
+
+        if (prev != null && root.val <= prev.val)
+            return false;
+
+        prev = root;
+        return isValidBST(root.right);
     }
 }
