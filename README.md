@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0392-is-subsequence) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/nomita1303/LeetCode-Solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
