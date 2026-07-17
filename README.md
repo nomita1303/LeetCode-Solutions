@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0134-gas-station) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0441-arranging-coins](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 ## Two Pointers
 |  |
