@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1331-rank-transform-of-an-array](https://github.com/nomita1303/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nomita1303/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Binary Search
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1331-rank-transform-of-an-array](https://github.com/nomita1303/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Counting Sort
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
