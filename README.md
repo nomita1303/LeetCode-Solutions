@@ -1,3 +1,107 @@
+# 🚀 LeetCode Solutions in Java
+
+A curated collection of my LeetCode solutions implemented in **Java**, created as part of my preparation for software engineering interviews and to strengthen my understanding of Data Structures and Algorithms.
+
+## 📊 Progress
+
+| Metric | Count |
+|--------|------:|
+| Total Problems Solved | 35+ |
+| Language | Java |
+| Difficulty | Easy • Medium • Hard |
+
+> *(Update the problem count whenever you solve more questions.)*
+
+---
+
+## 📚 Topics Covered
+
+- Arrays
+- Strings
+- Binary Search
+- Two Pointers
+- Sliding Window
+- Linked Lists
+- Stack & Queue
+- Trees & Binary Search Trees
+- Graphs (DFS & BFS)
+- Dynamic Programming
+- Greedy Algorithms
+- Backtracking
+- Hashing
+- Bit Manipulation
+- Matrix
+- Union Find
+
+---
+
+## 📁 Repository Structure
+
+```
+Arrays/
+Binary Search/
+Dynamic Programming/
+Graphs/
+Greedy/
+Hash Table/
+Linked List/
+Matrix/
+Stack/
+String/
+Tree/
+Two Pointers/
+...
+```
+
+---
+
+## 📝 Solution Format
+
+Each solution follows a consistent structure:
+
+- Problem Number
+- Problem Name
+- Java Solution
+- Clean and readable implementation
+
+Example:
+
+```
+0031-next-permutation
+0055-jump-game
+0200-number-of-islands
+0225-implement-stack-using-queues
+```
+
+---
+
+## 🎯 Goals
+
+- Improve problem-solving skills
+- Master core DSA concepts
+- Prepare for coding interviews
+- Build consistency through regular practice
+
+---
+
+## 🔗 LeetCode Profile
+
+**Profile:** https://leetcode.com/u/YOUR_USERNAME/
+
+---
+
+## 🛠 Tech Stack
+
+- Java
+- Git
+- GitHub
+- LeetCode
+
+---
+
+⭐ This repository is updated regularly as I solve new problems.
+
+
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
