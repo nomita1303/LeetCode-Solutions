@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0166-fraction-to-recurring-decimal](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0219-contains-duplicate-ii](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/nomita1303/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Matrix
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0392-is-subsequence](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0504-base-7](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0504-base-7) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nomita1303/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0089-gray-code](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0089-gray-code) |
+| [0166-fraction-to-recurring-decimal](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0441-arranging-coins](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/nomita1303/LeetCode-Solutions/tree/master/0504-base-7) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nomita1303/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
